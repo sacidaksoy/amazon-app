@@ -1,18 +1,20 @@
-# Facebook Clone
+# Amazon Clone
 
-![Facebook Clone](https://media.giphy.com/media/LWAaphmPrfaUjDaLqx/giphy.gif)
 
-[Firebase Live Version of the App](https://fb-clone-bb609.firebaseapp.com/)
+https://user-images.githubusercontent.com/95652465/164954525-deda5db2-e527-4f18-9ef2-471140dd1bfb.mp4
+
+[Firebase Live Version of the App](https://clone-b539a.web.app/)
 
 
 ## Introduction
-Build and Deploy an Facebook Clone page with React JS. 
+Build and Deploy a Fully E-Commerce Amazon Clone app with React JS.
 
 In this project, I used:
 
-- Creating a User Interface using React JS, CSS features like FLEXBOX and Material UI framework.
-- React Context API, React Hooks
+- Creating a User Interface using React JS, CSS features like FLEXBOX, react-toastify, moment and Material UI framework.
+- Stripe Payment Method with CardElement, react-currency-format
+- React Context API, Higher Order Components, React Hooks, React Router, axios
+- Firebase Authantication
 - Firebase Firestore realtime DB
 - Firebase Hosting
-- Firebase Google Authantication
-- Facebook Widget => Plugin Pages
+- Firebase Functions for Back-end Development
